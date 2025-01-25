@@ -34,7 +34,7 @@ export default function Hero() {
               <p>LEO CACHORRÃO,</p>
               <p>WANDERSON BARULHO E</p>
               <p>WAGNÃO LUIZ</p>
-              <p>DJ Alone</p>
+              <p>DJ ALONE</p>
             </div>
           </div>
         </div>
