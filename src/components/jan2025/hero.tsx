@@ -7,8 +7,8 @@ export default function Hero() {
         <div className="flex flex-col md:flex-row items-center justify-center">
           <div className="flex flex-col items-center justify-center ">
             <div className="max-w-[200px] bg-purple-700 text-white rounded-full  flex justify-between items-center gap-2 mb-2 md:mb-8">
-              <span className="text-xl sm:text-3xl font-bold ml-5">19FEV</span>
-              <span className="bg-white text-purple-700 rounded-full px-6 py-3 text-xl sm:text-3xl font-bold">15H</span>
+              <span className="text-xl sm:text-3xl font-bold ml-5">15FEV</span>
+              <span className="bg-white text-purple-700 rounded-full px-6 py-3 text-xl sm:text-3xl font-bold">19H</span>
             </div>
 
             <p className="text-purple-900 text-center text-lg sm:text-xl font-bold mb-8 max-w-sm">
