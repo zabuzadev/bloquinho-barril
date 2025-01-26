@@ -12,7 +12,7 @@ export default function Hero() {
             </div>
 
             <p className="text-purple-900 text-center text-lg sm:text-xl font-bold mb-8 max-w-sm">
-              Concentração na barril da Santana.
+              Concentração na Barril da Santana.
             
               Até o Clube do Detran.
             </p>  
@@ -32,7 +32,7 @@ export default function Hero() {
             <h2 className="text-yellow-900 font-semibold text-sm sm:text-lg md:text-2xl">PARTICIPAÇÃO ESPERCIAL</h2>
             <div className="text-purple-700 text-xl sm:text-2xl md:text-2xl lg:text-3xl font-bold">
               <p>LEO CACHORRÃO,</p>
-              <p>WANDERSON BARULHO E</p>
+              <p>WANDERSON BARULHO</p>
               <p>WAGNÃO LUIZ</p>
               <p>DJ ALONE</p>
             </div>
