@@ -15,15 +15,20 @@ export default function Performers() {
       {
         name: "WANDERSON BARULHO",
         image: "/images/barulho.webp",
-        bgColor: "bg-orange-500",
+        bgColor: "bg-violet-500",
       },
+      {
+        name: "DJ ALONY",
+        image: "/images/alony.webp",
+        bgColor: "bg-orange-500",
+      }
     ]
   
     return (
       <div className="pt-10 bg-white bg-[url(/images/cantores-bg.png)] bg-cover bg-center" id="atracoes">
         <div className="mx-auto max-w-7xl px-4">
         <h2 className="text-center text-2xl font-bold mb-8">ATRAÇÕES BLOQUINHO DE BARRIL 2025</h2>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-0">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-0">
           {performers.map((performer) => (
             <div key={performer.name} className={`flex justify-between items-center flex-col group ${performer.bgColor}`}>
             <h3 className="max-w-60 text-center mt-4 text-white  text-xl md:text-2xl lg:text-4xl font-bold mix-blend-overlay group-hover:mix-blend-normal transition-all duration-700">{performer.name}</h3>
