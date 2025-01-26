@@ -38,7 +38,7 @@ export default function Nav() {
             <Link href="#contato" className="text-gray-800 hover:text-purple-600">
               CONTATO
             </Link>
-            <Link href="#ingresso" className="bg-green-600 text-white px-6 py-2 rounded hover:bg-green-700">
+            <Link href="https://pay.kiwify.com.br/hKi9L45" className="bg-green-600 text-white px-6 py-2 rounded hover:bg-green-700">
               COMPRAR INGRESSO
             </Link>
           </div>
@@ -66,7 +66,7 @@ export default function Nav() {
               <Link href="#contato" className="mb-4 text-gray-800 hover:text-purple-600">
                 CONTATO
               </Link>
-              <Link href="#ingresso" className="bg-green-600 text-white px-6 py-2 rounded hover:bg-green-700">
+              <Link href="https://pay.kiwify.com.br/hKi9L45" className="bg-green-600 text-white px-6 py-2 rounded hover:bg-green-700">
                 COMPRAR INGRESSO
               </Link>
             </nav>
