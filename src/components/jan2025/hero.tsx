@@ -33,7 +33,7 @@ export default function Hero() {
             <div className="text-purple-700 text-xl sm:text-2xl md:text-2xl lg:text-3xl font-bold">
               <p>LEO CACHORRÃO,</p>
               <p>WANDERSON BARULHO</p>
-              <p>WAGNÃO LUIZ</p>
+              <p>WAGNÃO LUIZ E</p>
               <p>DJ ALONE</p>
             </div>
           </div>
