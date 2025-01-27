@@ -27,7 +27,7 @@ export default function Performers() {
     return (
       <div className="pt-10 bg-white bg-[url(/images/cantores-bg.png)] bg-cover bg-center" id="atracoes">
         <div className="mx-auto max-w-7xl px-4">
-        <h2 className="text-center text-2xl font-bold mb-8">ATRAÇÕES BLOQUINHO DE BARRIL 2025</h2>
+        <h2 className="text-center text-2xl font-bold mb-8">ATRAÇÕES BLOQUINHO DA BARRIL 2025</h2>
         <div className="grid grid-cols-1 md:grid-cols-4 gap-0">
           {performers.map((performer) => (
             <div key={performer.name} className={`flex justify-between items-center flex-col group ${performer.bgColor}`}>
