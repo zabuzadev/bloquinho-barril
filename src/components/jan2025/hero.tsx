@@ -29,7 +29,7 @@ export default function Hero() {
           </div>
 
           <div className="text-center mt-8">
-            <h2 className="text-yellow-900 font-semibold text-sm sm:text-lg md:text-2xl">PARTICIPAÇÃO ESPERCIAL</h2>
+            <h2 className="text-yellow-900 font-semibold text-sm sm:text-lg md:text-2xl">ATRAÇÕES CONFIRMADAS</h2>
             <div className="text-purple-700 text-xl sm:text-2xl md:text-2xl lg:text-3xl font-bold">
               <p>LEO CACHORRÃO,</p>
               <p>WANDERSON BARULHO</p>
