@@ -21,7 +21,7 @@ export default function CallToAction() {
                 variant="outline"
                 className="bg-transparent p-6 border-2 border-black" 
                 >
-                    <Link  href="https://pay.kiwify.com.br/hKi9L45" className="flex gap-2 items-center">
+                    <Link  href="https://instadelivery.com.br/bloquinhodobarril2025" className="flex gap-2 items-center">
                     <CreditCard />
                     COMPRAR INGRESSO
                     </Link>
