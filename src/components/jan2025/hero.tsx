@@ -12,9 +12,7 @@ export default function Hero() {
             </div>
 
             <p className="text-purple-900 text-center text-lg sm:text-xl font-bold mb-8 max-w-sm">
-              Concentração na Barril da Santana.
-            
-              Até o Clube do Detran.
+              Concentração no Clube do Detran.
             </p>  
           </div>
 
