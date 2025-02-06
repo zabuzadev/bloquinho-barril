@@ -21,7 +21,7 @@ export default function CallToAction() {
                 variant="outline"
                 className="bg-transparent p-6 border-2 border-black" 
                 >
-                    <Link  href="https://instadelivery.com.br/bloquinhodobarril2025" className="flex gap-2 items-center">
+                    <Link  href="https://wa.me/5586999060477?text=Ol%C3%A1%2C%20quero%20garantir%20meu%20ingresso%20para%20o%20Bloquinho%20do%20Barril" className="flex gap-2 items-center">
                     <CreditCard />
                     COMPRAR INGRESSO
                     </Link>
